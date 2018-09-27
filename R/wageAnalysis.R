@@ -1,11 +1,11 @@
-library(readr)
-library(ggplot2)
-library(magrittr)
-library(ggthemes)
+pacman::p_load(
+  readr,
+  ggplot2,
+  ggthemes,
+  magrittr)
 
 
-
-getMeanWages <- function(region) {
+getMeanWages <- function(region = c("ni", "uk")) {
   wage.data <- read_delim(
     file = getwd() %>% 
       paste0("/data/", region,"-wages-2017-gross-all.csv"), 
@@ -14,9 +14,7 @@ getMeanWages <- function(region) {
     trim_ws = TRUE)
   
   anomalies <- c("x", ":", "..")
-  for (a in anomalies) {
-    wage.data[wage.data == a] <- NA
-  }
+  for (a in anomalies) wage.data[wage.data == a] <- NA
   
   mean.wages <- data.frame(
     role = wage.data$Role, 
@@ -138,6 +136,8 @@ qualifyingOccupationsPlot <- function(wageData, region, socLevel, threshold) {
   return(cutoffPlot)
 }
 
+
+# Perform some main analysis
 region <- "uk"
 socLevel <- 3
 threshold <- 30000
@@ -153,5 +153,6 @@ qualifyingOccupationsPlot(
   region = "ni", 
   socLevel = socLevel, 
   threshold = threshold)
+
 
 
