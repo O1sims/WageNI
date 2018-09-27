@@ -1,0 +1,494 @@
+Role	id	Number	Median	Mean	P10	P20	P25	P30	P40	P60	P70	P75	P80	P90
+Managers, directors and senior officials	1	2,597	767.1	961.9	335.3	450.4	500.0	554.5	657.1	905.5	1,083.9	1,196.1	1,339.6	1,785.1
+  Corporate managers and directors	11	2,161	842.0	1,030.9	352.2	488.7	548.1	601.5	718.7	982.8	1,171.3	1,288.7	1,422.3	1,878.2
+    Chief executives and senior officials	111	89	1,505.4	1,758.5	387.2	733.1	874.5	967.7	1,257.5	1,758.0	1,977.9	2,204.0	2,337.9	x
+      Chief executives and senior officials	1115	81	1,604.7	1,893.5	597.3	908.6	1,007.9	1,149.9	1,375.9	1,820.7	2,099.2	2,275.0	2,441.4	x
+      Elected officers and representatives	1116	8	x	355.2	x	x	x	x	x	x	x	x	x	x
+    Production managers and directors	112	603	860.3	1,001.3	383.3	547.4	601.0	657.0	758.9	974.8	1,149.9	1,245.7	1,361.4	1,810.1
+      Production managers and directors in manufacturing	1121	486	863.2	1,016.9	367.5	538.5	600.3	657.9	762.8	999.9	1,183.1	1,285.5	1,394.7	1,839.8
+      Production managers and directors in construction	1122	110	812.9	923.2	429.2	556.0	600.0	640.9	728.2	900.8	1,022.1	1,077.5	1,177.4	x
+      Production managers and directors in mining and energy	1123	8	908.9	1,132.0	x	722.5	783.6	805.0	847.2	954.3	x	x	x	x
+    Functional managers and directors	113	783	1,088.3	1,239.6	460.0	653.3	728.3	798.5	939.1	1,245.7	1,431.8	1,538.8	1,678.1	2,118.4
+      Financial managers and directors	1131	293	1,149.9	1,311.3	423.6	631.7	710.3	792.6	958.2	1,299.0	1,502.3	1,619.4	1,762.9	2,295.2
+      Marketing and sales directors	1132	187	1,378.7	1,463.2	574.9	811.2	916.0	1,003.3	1,177.3	1,533.2	1,728.0	1,852.2	1,990.9	2,375.5
+      Purchasing managers and directors	1133	64	901.4	1,009.5	558.0	693.3	722.7	760.3	828.5	987.2	1,101.3	1,171.8	1,258.3	x
+      Advertising and public relations directors	1134	11	1,054.3	1,136.1	x	674.5	719.2	790.5	951.1	1,149.9	1,353.1	x	x	x
+      Human resource managers and directors	1135	128	881.6	944.4	478.9	601.0	657.3	709.4	802.1	963.4	1,073.2	1,138.9	1,210.6	1,395.8
+      Information technology and telecommunications directors	1136	34	1,302.5	1,311.2	x	849.2	935.9	1,021.8	1,150.7	1,401.4	1,567.7	1,685.8	1,740.8	x
+      Functional managers and directors n.e.c.	1139	65	952.7	1,062.1	x	460.0	523.0	621.7	787.2	1,110.7	1,262.3	1,364.0	1,505.5	x
+    Financial institution managers and directors	115	80	947.5	1,217.2	531.4	633.2	672.6	708.0	821.1	1,072.7	1,235.5	1,311.2	1,437.4	x
+      Financial institution managers and directors	1150	80	947.5	1,217.2	531.4	633.2	672.6	708.0	821.1	1,072.7	1,235.5	1,311.2	1,437.4	x
+    Managers and directors in transport and logistics	116	208	587.9	664.8	345.0	421.6	460.0	483.1	536.7	657.3	725.9	767.5	822.4	1,017.2
+      Managers and directors in transport and distribution	1161	72	690.5	798.0	406.1	517.5	559.7	584.7	644.6	766.6	862.0	926.3	979.5	x
+      Managers and directors in storage and warehousing	1162	136	538.3	594.2	337.2	387.6	421.6	449.9	497.9	584.5	660.3	699.7	745.7	864.0
+    Senior officers in protective services	117	17	1,089.9	1,133.8	737.7	921.8	970.3	987.2	1,049.8	1,136.4	1,215.4	1,220.1	x	x
+      Officers in armed forces	1171	:												
+      Senior police officers	1172	10	1,160.8	1,219.9	x	1,062.5	1,078.5	1,091.2	1,136.0	1,217.1	1,230.8	1,244.8	x	x
+      Senior officers in fire, ambulance, prison and related services	1173	7	951.2	1,010.3	x	742.5	779.3	840.8	915.1	984.2	x	x	x	x
+    Health and social services managers and directors	118	61	804.0	880.4	395.0	538.8	565.4	621.5	721.2	909.3	993.3	1,053.5	1,104.7	x
+      Health services and public health managers and directors	1181	43	850.4	917.2	419.6	540.1	597.3	660.6	775.3	941.9	1,033.6	1,096.3	1,183.6	x
+      Social services managers and directors	1184	18	717.7	790.1	389.1	499.4	558.6	565.7	636.5	793.3	899.1	923.7	x	x
+    Managers and directors in retail and wholesale	119	320	497.1	588.2	281.4	345.0	364.1	383.3	432.7	555.8	643.5	689.1	760.3	990.9
+      Managers and directors in retail and wholesale	1190	320	497.1	588.2	281.4	345.0	364.1	383.3	432.7	555.8	643.5	689.1	760.3	990.9
+  Other managers and proprietors	12	436	536.6	620.6	272.2	357.2	385.8	421.6	478.2	603.8	689.9	737.3	797.6	968.0
+    Managers and proprietors in agriculture related services	121	17	498.9	566.9	287.6	349.3	363.8	421.5	442.7	578.3	673.2	701.8	x	x
+      Managers and proprietors in agriculture and horticulture	1211	13	510.1	585.9	x	374.5	421.6	428.5	488.7	590.1	695.5	712.0	x	x
+      Managers and proprietors in forestry, fishing and related services	1213	x	x	499.9	x	x	x	x	361.2	x	x	x	x	x
+    Managers and proprietors in hospitality and leisure services	122	134	450.4	511.4	247.3	329.4	347.0	368.7	411.9	498.5	562.3	591.9	637.8	766.4
+      Hotel and accommodation managers and proprietors	1221	19	461.7	540.0	273.9	314.0	342.9	362.1	402.1	523.8	597.0	635.3	x	x
+      Restaurant and catering establishment managers and proprietors	1223	59	428.3	448.1	212.8	300.4	330.5	349.5	391.0	460.0	500.0	526.7	556.7	x
+      Publicans and managers of licensed premises	1224	12	464.9	509.8	x	345.2	351.0	366.4	422.1	517.6	587.4	x	x	x
+      Leisure and sports managers	1225	40	499.3	580.9	296.1	347.8	370.3	385.9	434.5	562.4	612.6	652.6	693.4	x
+      Travel agency managers and proprietors	1226	5	478.0	596.5	x	x	378.7	395.5	419.0	x	x	x	x	x
+    Managers and proprietors in health and care services	124	67	608.2	621.3	300.8	432.0	462.9	488.8	557.2	668.1	729.6	766.6	805.8	x
+      Health care practice managers	1241	16	572.3	586.4	x	344.4	412.7	444.0	490.5	665.6	732.1	784.7	x	x
+      Residential, day and domiciliary  care managers and proprietors	1242	51	609.6	632.1	314.3	445.3	479.1	514.9	561.2	671.4	728.5	763.8	803.2	x
+    Managers and proprietors in other services	125	219	580.9	691.5	279.8	370.8	414.1	447.4	506.0	670.8	765.8	822.7	885.8	1,088.2
+      Property, housing and estate managers	1251	106	628.0	727.9	342.3	431.7	471.7	488.7	555.8	709.8	795.4	853.1	905.9	x
+      Garage managers and proprietors	1252	7	632.2	808.1	x	447.8	475.1	526.1	589.0	x	x	x	x	x
+      Hairdressing and beauty salon managers and proprietors	1253	x	428.7	455.2	x	x	x	322.4	x	x	x	x	x	x
+      Shopkeepers and proprietors – wholesale and retail	1254	8	443.6	709.2	x	x	x	x	x	x	x	x	x	x
+      Waste disposal and environmental services managers	1255	6	x	857.5	x	x	492.4	570.3	655.7	x	x	x	x	x
+      Managers and proprietors in other services n.e.c.	1259	87	530.6	639.7	244.1	332.1	360.3	389.7	457.8	619.7	737.4	794.4	857.6	x
+Professional occupations	2	5,660	675.1	734.6	319.5	444.6	487.7	528.9	601.5	744.7	831.6	888.0	954.2	1,171.1
+  Science, research, engineering and technology professionals	21	1,284	767.8	821.6	449.3	552.8	589.3	630.8	696.3	845.7	939.1	988.5	1,054.1	1,242.8
+    Natural and social science professionals	211	148	676.2	727.5	382.2	499.7	532.2	563.6	617.2	731.8	804.8	848.2	910.3	1,076.7
+      Chemical scientists	2111	11	657.5	704.0	x	441.6	506.5	528.5	587.2	730.0	804.0	x	x	x
+      Biological scientists and biochemists	2112	58	674.3	713.1	327.0	449.8	504.0	528.9	576.4	732.6	808.9	855.9	917.7	x
+      Physical scientists	2113	15	737.9	874.0	x	566.6	570.3	616.5	683.0	822.9	868.3	x	x	x
+      Social and humanities scientists	2114	10	587.5	600.2	x	365.7	x	409.2	519.4	635.1	674.7	x	x	x
+      Natural and social science professionals n.e.c.	2119	56	690.0	730.7	428.9	548.9	578.2	605.0	650.5	731.8	792.0	847.4	899.3	x
+    Engineering professionals	212	387	777.0	815.4	489.2	582.3	618.7	648.3	711.4	855.4	925.9	974.1	1,024.1	1,177.7
+      Civil engineers	2121	46	771.3	824.9	495.4	575.7	622.3	651.1	709.4	861.4	921.5	971.8	1,015.8	x
+      Mechanical engineers	2122	34	810.2	859.9	534.6	625.9	644.7	697.6	751.4	870.3	998.6	1,069.5	1,148.1	x
+      Electrical engineers	2123	20	890.1	890.3	532.2	669.5	693.1	741.0	827.1	959.3	1,030.7	1,054.1	1,097.4	x
+      Electronics engineers	2124	x	753.4	821.4	x	x	x	637.5	673.9	800.5	x	x	x	x
+      Design and development engineers	2126	80	766.8	792.9	482.8	582.7	611.0	637.4	701.3	827.1	895.6	931.2	977.5	x
+      Production and process engineers	2127	46	750.2	784.9	473.5	566.8	593.1	633.6	693.4	821.9	873.9	908.9	961.2	x
+      Engineering professionals n.e.c.	2129	156	783.5	813.8	475.7	565.5	607.4	634.6	697.3	860.8	946.5	983.9	1,034.4	1,176.2
+    Information technology and telecommunications professionals	213	659	793.9	849.3	450.4	554.8	590.4	640.5	718.7	877.8	976.5	1,040.0	1,111.6	1,305.5
+      IT specialist managers	2133	164	896.7	950.1	540.7	644.9	697.5	729.5	809.0	982.4	1,092.4	1,149.9	1,183.8	1,422.4
+      IT project and programme managers	2134	18	939.4	981.5	568.0	707.4	751.7	778.4	844.4	1,019.8	1,099.0	1,199.3	1,274.9	x
+      IT business analysts, architects and systems designers	2135	108	862.4	933.1	538.6	632.3	673.7	699.6	787.4	957.2	1,065.1	1,126.0	1,189.1	1,442.9
+      Programmers and software development professionals	2136	224	774.7	812.2	421.6	536.6	574.9	622.9	694.6	841.9	935.4	970.1	1,039.2	1,249.5
+      Web design and development professionals	2137	45	574.9	587.9	334.7	428.1	459.9	479.1	520.8	613.8	681.6	709.1	766.6	x
+      Information technology and telecommunications professionals n.e.c.	2139	101	723.6	771.3	345.0	460.0	505.1	549.1	622.8	794.3	900.8	958.2	1,009.8	x
+    Conservation and environment professionals	214	41	629.8	661.6	392.2	482.5	504.2	532.8	575.3	670.8	730.6	748.0	789.4	x
+      Conservation professionals	2141	10	629.8	655.9	x	483.5	515.1	527.8	589.7	656.9	736.9	x	x	x
+      Environment professionals	2142	32	626.5	663.4	396.7	481.8	498.3	532.9	563.2	670.7	728.5	744.0	786.8	x
+    Research and development managers 	215	48	848.7	918.1	530.7	622.3	651.6	690.5	774.8	926.4	1,027.6	1,088.4	1,149.9	x
+      Research and development managers	2150	48	848.7	918.1	530.7	622.3	651.6	690.5	774.8	926.4	1,027.6	1,088.4	1,149.9	x
+  Health professionals	22	1,503	587.3	682.7	275.5	392.7	431.7	466.5	528.3	656.0	732.8	791.5	844.0	1,126.4
+    Health professionals	221	443	830.1	1,018.3	381.2	516.8	575.2	621.3	727.2	952.5	1,140.3	1,275.0	1,459.5	1,970.1
+      Medical practitioners	2211	253	1,124.9	1,288.1	502.5	685.1	779.0	835.1	973.5	1,302.5	1,580.9	1,710.2	1,876.1	2,270.5
+      Psychologists	2212	30	658.6	706.1	316.4	420.6	459.4	504.5	565.8	758.4	874.0	920.4	976.2	x
+      Pharmacists	2213	47	706.8	702.5	337.8	438.2	495.5	538.9	639.4	779.1	851.5	881.8	920.1	x
+      Ophthalmic opticians	2214	10	612.3	580.6	x	x	x	460.0	510.3	685.3	732.6	781.5	x	x
+      Dental practitioners	2215	8	651.1	853.4	x	x	x	519.7	595.0	x	x	x	x	x
+      Veterinarians	2216	17	661.4	716.4	x	534.6	556.7	585.5	613.3	707.8	788.9	805.7	847.3	x
+      Medical radiographers	2217	39	609.9	621.0	312.9	449.0	476.6	502.3	558.0	651.5	715.8	745.4	792.9	x
+      Podiatrists	2218	8	538.4	524.3	x	335.2	x	400.2	489.5	556.4	656.4	x	x	x
+      Health professionals n.e.c.	2219	32	544.5	571.9	318.3	402.8	430.4	455.6	503.2	608.7	675.1	688.7	746.2	x
+    Therapy professionals	222	111	527.6	538.4	287.3	379.0	416.3	430.4	475.9	568.3	630.7	661.5	691.3	798.0
+      Physiotherapists	2221	49	540.8	541.1	259.1	372.0	419.9	431.0	500.7	593.8	644.5	675.1	711.5	x
+      Occupational therapists	2222	34	524.4	545.0	357.0	415.2	423.6	440.9	481.2	555.1	612.7	649.7	675.9	x
+      Speech and language therapists	2223	12	456.4	477.2	242.6	300.2	310.2	360.9	405.0	512.2	548.3	566.6	x	x
+      Therapy professionals n.e.c.	2229	16	528.8	564.4	x	406.4	425.8	439.8	461.8	612.7	691.9	726.8	776.3	x
+    Nursing and midwifery professionals	223	950	540.6	543.3	240.2	352.7	399.6	432.6	490.6	590.5	651.2	678.9	715.3	812.3
+      Nurses	2231	900	540.1	542.2	235.0	350.1	396.7	430.8	489.9	589.8	649.2	676.5	715.0	812.0
+      Midwives	2232	50	551.2	562.7	295.3	396.8	426.6	455.5	501.3	627.1	675.1	699.6	720.4	x
+  Teaching and educational professionals	23	1,467	649.9	655.3	222.5	398.4	439.7	479.1	566.6	720.7	788.9	834.2	888.4	1,051.5
+    Teaching and educational professionals	231	1,467	649.9	655.3	222.5	398.4	439.7	479.1	566.6	720.7	788.9	834.2	888.4	1,051.5
+      Higher education teaching professionals	2311	169	890.1	852.7	185.2	434.8	539.7	639.5	753.6	953.9	1,065.9	1,103.0	1,142.1	1,358.7
+      Further education teaching professionals	2312	132	607.3	578.1	174.8	322.1	368.0	422.3	536.5	673.0	731.8	766.9	823.2	x
+      Secondary education teaching professionals	2314	456	685.4	669.3	344.6	463.8	498.8	530.9	610.6	733.1	802.0	830.1	864.5	967.2
+      Primary and nursery education teaching professionals	2315	453	596.9	586.7	254.2	402.4	430.6	464.6	538.5	675.4	713.1	733.1	770.2	868.0
+      Special needs education teaching professionals	2316	42	539.0	557.6	191.0	321.6	370.1	429.8	480.8	639.2	702.5	759.0	791.4	x
+      Senior professionals of educational establishments	2317	96	1,029.4	1,029.8	524.6	680.1	752.9	825.4	943.4	1,105.3	1,191.9	1,223.1	1,284.7	1,478.1
+      Education advisers and school inspectors	2318	18	650.4	660.5	240.5	358.9	417.9	456.5	559.2	752.4	840.8	855.2	901.6	x
+      Teaching and other educational professionals n.e.c.	2319	99	310.8	348.1	49.6	93.3	122.5	152.3	224.5	398.0	473.8	517.5	567.2	687.6
+  Business, media and public service professionals	24	1,406	700.3	793.4	374.8	479.1	525.0	570.2	636.9	774.3	873.2	936.6	1,015.6	1,264.9
+    Legal professionals	241	133	862.4	1,097.2	421.6	565.4	609.3	670.8	766.6	963.6	1,169.5	1,322.7	1,494.2	1,876.3
+      Barristers and judges	2412	14	597.6	720.4	x	x	x	401.0	546.4	712.0	x	x	x	x
+      Solicitors	2413	79	766.6	983.2	418.8	508.0	574.9	613.3	689.9	850.4	958.2	1,007.5	1,119.2	x
+      Legal professionals n.e.c.	2419	41	1,341.6	1,444.4	671.0	855.2	895.3	954.1	1,140.5	1,499.4	1,677.8	1,767.9	1,875.4	x
+    Business, research and administrative professionals	242	677	739.0	826.6	394.3	512.5	558.4	593.3	669.7	830.8	945.5	1,013.8	1,081.6	1,323.1
+      Chartered and certified accountants	2421	87	685.9	726.0	292.8	438.2	479.1	536.6	602.5	766.6	843.2	897.7	973.6	x
+      Management consultants and business analysts	2423	171	746.1	826.9	394.3	502.5	552.8	586.6	670.8	843.3	956.2	1,019.8	1,092.2	1,285.5
+      Business and financial project management professionals	2424	241	863.5	945.7	460.0	574.9	623.6	670.8	769.7	984.9	1,109.4	1,183.7	1,260.7	1,534.1
+      Actuaries, economists and statisticians	2425	22	866.3	1,124.7	525.9	612.8	644.0	695.9	775.3	977.8	1,069.5	1,149.9	x	x
+      Business and related research professionals	2426	106	613.4	609.3	344.6	440.8	479.1	517.5	569.1	650.5	690.0	729.6	749.1	853.3
+      Business, research and administrative professionals n.e.c.	2429	50	705.2	756.4	408.0	570.0	599.3	628.5	660.6	835.0	925.2	941.6	967.9	x
+    Architects, town planners and surveyors	243	165	710.7	763.6	414.0	506.4	550.7	585.6	656.4	766.6	852.9	905.9	958.2	1,130.2
+      Architects	2431	39	728.2	815.8	483.9	581.0	608.4	636.9	685.3	766.6	856.3	919.2	x	x
+      Town planning officers	2432	7	650.1	698.5	x	411.5	448.3	478.8	534.4	704.4	x	x	x	x
+      Quantity surveyors	2433	33	794.0	814.3	399.5	507.7	584.4	634.2	728.3	862.2	930.9	958.2	1,045.6	x
+      Chartered surveyors	2434	63	686.1	721.2	391.5	480.5	527.0	555.1	614.4	745.9	805.5	855.9	912.0	x
+      Chartered architectural technologists	2435	x	589.3	657.0	x	x	x	x	x	x	x	x	x	x
+      Construction project managers and related professionals	2436	20	672.0	751.6	440.8	493.1	514.6	571.1	639.2	747.3	855.7	898.4	x	x
+    Welfare professionals	244	164	557.8	553.7	280.0	392.8	426.8	446.9	502.6	615.2	668.4	691.3	728.2	807.9
+      Social workers	2442	103	629.4	611.1	346.3	473.3	507.4	533.0	579.8	667.4	707.6	732.8	763.8	836.4
+      Probation officers	2443	5	496.8	474.9	x	x	348.4	367.2	404.8	514.3	571.6	x	x	x
+      Clergy	2444	39	444.3	422.0	182.3	248.5	298.8	341.8	421.5	455.7	477.5	491.2	513.1	x
+      Welfare professionals n.e.c.	2449	17	525.0	532.0	234.2	343.4	366.7	407.4	465.8	594.5	677.2	692.0	732.5	x
+    Librarians and related professionals	245	25	467.2	477.2	162.2	279.7	311.2	337.4	407.6	505.2	565.2	604.7	668.6	x
+      Librarians	2451	15	461.7	482.0	x	304.0	311.3	334.7	407.0	491.4	564.5	603.8	x	x
+      Archivists and curators	2452	10	478.5	470.1	x	x	x	x	401.7	508.1	553.4	x	x	x
+    Quality and regulatory professionals	246	130	737.8	805.5	459.7	570.5	600.2	633.7	684.7	796.7	871.6	932.8	1,006.8	1,179.2
+      Quality control and planning engineers	2461	41	719.0	734.9	432.7	563.5	581.7	621.1	661.8	754.0	829.3	862.5	898.3	x
+      Quality assurance and regulatory professionals	2462	79	766.6	859.1	474.2	584.1	609.3	650.7	709.9	839.8	948.7	1,023.2	1,100.5	x
+      Environmental health professionals	2463	10	665.5	665.7	x	502.8	539.5	578.1	628.4	697.2	738.0	783.0	x	x
+    Media professionals	247	113	623.8	684.3	345.0	438.9	474.8	498.3	560.3	688.6	759.5	793.8	851.8	x
+      Journalists, newspaper and periodical editors	2471	49	634.9	699.1	401.1	468.6	487.2	506.8	574.9	687.0	774.6	807.8	863.1	x
+      Public relations professionals	2472	38	574.9	639.4	282.7	383.6	421.6	459.8	516.4	639.7	691.6	728.5	765.6	x
+      Advertising accounts managers and creative directors	2473	27	689.5	720.8	344.3	449.5	499.9	542.5	604.0	750.5	822.7	866.6	971.5	x
+Associate professional and technical occupations	3	3,846	569.9	640.8	298.9	388.0	423.5	452.9	508.3	633.2	718.7	764.4	818.3	1,009.6
+  Science, engineering and technology associate professionals	31	693	528.8	563.4	312.5	373.3	402.5	431.6	482.0	579.2	644.2	684.2	728.3	859.0
+    Science, engineering and production technicians	311	376	513.5	554.9	304.4	364.1	386.3	415.8	469.5	574.1	638.1	678.6	727.8	859.8
+      Laboratory technicians	3111	64	367.2	407.0	216.4	290.5	306.8	321.9	345.0	397.2	436.8	469.6	503.7	x
+      Electrical and electronics technicians	3112	10	615.8	651.0	x	x	422.3	498.1	528.5	683.0	736.3	x	x	x
+      Engineering technicians	3113	83	666.3	681.0	405.6	488.2	518.1	541.7	591.3	730.2	790.8	822.7	870.0	974.0
+      Building and civil engineering technicians	3114	x	528.8	586.4	x	x	x	478.3	507.0	566.5	x	x	x	x
+      Quality assurance technicians	3115	30	484.8	524.9	372.7	410.7	422.5	432.5	453.1	506.3	565.9	580.8	617.9	x
+      Planning, process and production technicians	3116	32	586.1	616.0	394.2	470.7	489.2	501.7	537.5	622.8	674.3	709.9	756.9	x
+      Science, engineering and production technicians n.e.c.	3119	152	496.3	533.7	299.0	358.8	378.8	402.0	452.2	551.5	610.8	637.9	670.2	796.9
+    Draughtspersons and related architectural technicians	312	52	537.2	567.3	347.9	446.8	463.7	479.1	517.5	579.7	621.3	651.6	686.7	x
+      Architectural and town planning technicians	3121	17	536.6	560.4	391.2	460.0	469.1	479.1	504.0	565.6	613.3	631.3	x	x
+      Draughtspersons	3122	34	548.8	570.8	334.4	421.6	460.0	479.1	522.1	580.0	640.0	659.9	694.1	x
+    Information technology technicians	313	266	540.1	574.8	325.0	383.3	411.7	444.5	497.4	588.0	659.5	694.7	736.0	865.8
+      IT operations technicians	3131	120	545.6	582.0	310.1	376.2	403.3	441.9	501.5	595.6	675.1	708.4	758.0	885.5
+      IT user support technicians	3132	145	536.6	568.8	326.6	391.3	412.1	444.6	491.3	580.7	644.0	688.1	721.5	853.6
+  Health and social care associate professionals	32	341	434.0	427.3	173.4	263.1	306.6	340.6	390.2	473.4	515.2	537.3	562.2	657.7
+    Health associate professionals	321	81	477.8	508.8	238.1	342.0	368.9	387.0	435.8	544.1	604.2	660.8	685.7	799.9
+      Paramedics	3213	19	694.8	689.8	459.2	560.8	582.8	610.6	675.0	717.9	776.7	797.4	822.5	x
+      Dispensing opticians	3216	x	447.9	502.4	x	x	x	402.7	431.8	478.2	x	x	x	x
+      Pharmaceutical technicians	3217	22	396.4	401.3	192.3	290.8	320.5	338.7	372.3	435.7	452.8	463.8	504.0	x
+      Medical and dental technicians	3218	26	495.4	507.7	273.8	351.4	375.2	395.3	435.4	536.3	587.7	618.6	665.3	x
+      Health associate professionals n.e.c.	3219	11	424.3	423.3	x	202.8	x	270.7	356.4	447.8	513.3	x	x	x
+    Welfare and housing associate professionals	323	260	420.9	401.7	158.7	246.1	283.2	323.2	374.3	459.8	494.6	516.2	536.7	602.3
+      Youth and community workers	3231	77	431.2	405.2	142.4	235.1	272.3	309.2	383.1	466.0	503.6	530.3	547.5	612.8
+      Child and early years officers	3233	36	429.2	398.0	x	238.1	286.6	328.5	368.8	462.5	488.9	508.9	522.9	x
+      Housing officers	3234	42	495.3	476.9	278.0	373.0	403.1	425.1	475.0	520.7	545.3	564.2	590.0	x
+      Counsellors	3235	14	346.3	348.9	133.3	189.1	210.8	219.6	255.0	391.1	430.5	466.2	x	x
+      Welfare and housing associate professionals n.e.c.	3239	91	381.2	373.2	138.6	234.6	260.8	296.5	343.4	420.2	451.9	475.1	499.4	571.7
+  Protective service occupations	33	409	728.3	712.5	444.5	536.4	575.0	604.1	672.6	755.5	804.2	836.5	866.7	970.8
+    Protective service occupations	331	409	728.3	712.5	444.5	536.4	575.0	604.1	672.6	755.5	804.2	836.5	866.7	970.8
+      NCOs and other ranks	3311	:												
+      Police officers (sergeant and below)	3312	267	773.3	790.9	533.2	652.2	681.4	727.7	741.7	811.5	858.1	880.8	905.9	1,024.2
+      Fire service officers (watch manager and below)	3313	60	616.9	581.1	146.8	x	552.0	572.7	587.8	658.2	687.7	701.1	720.3	x
+      Prison service officers (below principal officer)	3314	42	543.9	538.7	367.6	397.7	425.1	439.9	478.3	572.4	609.0	622.8	659.3	x
+      Police community support officers	3315	17	512.7	510.3	425.9	464.9	475.9	483.9	493.8	527.8	532.6	542.0	x	x
+      Protective service associate professionals n.e.c.	3319	24	611.5	613.4	x	383.0	431.7	490.8	547.1	658.1	706.8	736.8	x	x
+  Culture, media and sports occupations	34	238	428.6	536.6	50.0	137.7	204.1	276.2	366.5	479.1	536.6	574.9	621.2	786.1
+    Artistic, literary and media occupations	341	78	498.5	542.3	x	303.5	348.0	379.1	449.6	569.9	630.2	677.6	750.1	x
+      Artists	3411	7	526.2	524.0	x	x	401.9	434.7	478.8	569.3	581.7	x	x	x
+      Authors, writers and translators	3412	17	480.5	532.4	x	306.4	366.7	423.7	450.2	519.9	588.4	613.3	x	x
+      Actors, entertainers and presenters	3413	x	x	x	x	x	x	x	x	x	x	x	x	x
+      Dancers and choreographers	3414	x	x	x	x	x	x	x	x	x	x	x	x	x
+      Musicians	3415	5	x	417.9	x	x	x	x	x	x	x	x	x	x
+      Arts officers, producers and directors	3416	20	634.0	673.6	x	415.3	472.5	507.1	573.9	713.7	788.9	832.5	x	x
+      Photographers, audio-visual and broadcasting equipment operators	3417	23	454.1	493.6	x	335.2	347.1	364.1	407.6	499.4	568.7	583.6	x	x
+    Design occupations	342	75	489.8	517.1	321.0	383.3	402.5	427.2	464.2	529.7	574.9	607.3	632.4	x
+      Graphic designers	3421	46	478.7	488.1	301.9	381.2	385.8	403.5	440.8	500.5	536.6	565.4	587.8	x
+      Product, clothing and related designers	3422	29	531.4	562.4	342.5	422.2	450.4	472.0	496.7	577.5	631.2	651.6	667.0	x
+    Sports and fitness occupations	344	85	182.4	x	23.0	44.5	55.1	69.4	115.2	266.4	348.8	387.1	437.6	x
+      Sports players	3441	13	x	x	x	x	x	x	x	x	x	x	x	x
+      Sports coaches, instructors and officials	3442	51	x	234.4	22.9	40.3	50.0	59.4	91.0	x	336.3	373.1	423.1	x
+      Fitness instructors	3443	22	x	187.4	20.7	x	x	x	x	x	271.6	302.3	324.9	x
+  Business and public service associate professionals	35	2,166	598.5	697.0	336.0	420.9	448.0	479.1	536.6	670.8	764.6	818.3	891.4	1,156.2
+    Transport associate professionals	351	15	1,460.5	1,467.0	x	805.2	882.4	972.3	1,281.5	1,696.5	1,924.1	2,023.1	x	x
+      Air traffic controllers	3511	x	1,584.0	1,610.0	x	x	x	x	x	1,705.7	x	x	x	x
+      Aircraft pilots and flight engineers	3512	8	1,726.1	1,641.3	x	x	1,232.9	1,322.3	1,390.9	1,858.6	2,025.4	x	x	x
+      Ship and hovercraft officers	3513	x	x	793.8	x	x	x	x	x	x	x	x	x	x
+    Legal associate professionals	352	62	498.0	563.4	298.7	363.5	380.6	395.5	445.9	546.2	595.3	630.7	666.6	x
+      Legal associate professionals	3520	62	498.0	563.4	298.7	363.5	380.6	395.5	445.9	546.2	595.3	630.7	666.6	x
+    Business, finance and related associate professionals	353	547	603.7	698.9	338.5	420.9	453.5	481.7	543.0	670.8	764.6	812.8	881.6	1,076.7
+      Estimators, valuers and assessors	3531	48	558.2	606.9	329.1	414.8	438.4	478.5	521.0	592.3	638.1	691.9	750.5	x
+      Brokers	3532	12	1,066.4	1,534.8	x	440.2	x	x	901.0	x	x	x	x	x
+      Insurance underwriters	3533	24	608.9	721.5	429.6	484.8	500.2	508.1	552.3	667.8	722.8	739.5	x	x
+      Finance and investment analysts and advisers	3534	122	650.5	747.1	402.0	482.0	517.5	543.8	589.9	722.2	825.0	893.6	958.2	1,096.4
+      Taxation experts	3535	16	826.2	908.0	500.6	632.4	651.2	671.0	770.4	886.6	1,010.8	1,047.8	x	x
+      Importers and exporters	3536	x	477.7	518.4	x	x	x	x	x	x	x	x	x	x
+      Financial and accounting technicians	3537	32	730.4	777.7	298.4	478.8	535.2	578.4	657.7	839.5	910.5	935.5	970.9	x
+      Financial accounts managers	3538	114	670.0	757.6	350.8	447.8	479.1	507.9	583.3	750.5	827.8	881.0	954.1	x
+      Business and related associate professionals n.e.c.	3539	177	516.6	563.3	302.7	365.6	392.1	418.8	463.1	574.9	637.1	671.1	724.8	842.3
+    Sales, marketing and related associate professionals	354	1,054	655.7	757.4	345.0	436.6	478.5	505.5	575.0	742.6	854.5	921.5	1,006.2	1,295.3
+      Buyers and procurement officers	3541	54	570.8	616.3	365.0	438.0	460.5	488.7	521.7	612.5	666.8	717.5	756.8	x
+      Business sales executives	3542	244	554.6	620.5	286.5	364.1	399.1	428.9	486.7	613.5	706.6	764.6	822.0	1,015.1
+      Marketing associate professionals	3543	144	496.7	547.2	296.5	369.5	396.9	421.6	464.6	540.5	584.5	613.3	651.5	774.5
+      Estate agents and auctioneers	3544	23	379.8	426.0	x	250.0	284.2	310.6	356.0	433.9	487.1	508.8	x	x
+      Sales accounts and business development managers	3545	551	806.8	920.6	466.9	574.9	613.3	653.5	728.3	907.7	1,037.0	1,130.2	1,224.9	1,497.2
+      Conference and exhibition managers and organisers	3546	39	451.3	463.2	x	233.5	294.6	367.2	408.1	493.1	542.2	564.4	599.8	x
+    Conservation and environmental associate professionals	355	7	424.7	472.1	x	348.0	353.8	368.2	411.2	440.3	x	x	x	x
+      Conservation and environmental associate professionals	3550	7	424.7	472.1	x	348.0	353.8	368.2	411.2	440.3	x	x	x	x
+    Public services and other associate professionals	356	481	526.4	559.5	317.7	397.0	427.8	446.7	481.5	574.9	630.2	667.5	700.9	809.0
+      Public services associate professionals	3561	144	524.6	556.9	339.5	418.5	x	446.7	485.6	572.6	618.2	664.3	695.7	788.6
+      Human resources and industrial relations officers	3562	154	515.2	561.1	319.6	383.3	408.4	431.2	469.6	568.2	622.7	660.3	694.5	804.0
+      Vocational and industrial trainers and instructors	3563	120	515.7	538.7	292.5	382.2	412.0	430.4	475.0	560.6	617.5	651.5	682.2	794.7
+      Careers advisers and vocational guidance specialists	3564	13	470.1	452.4	x	x	x	409.8	453.1	487.8	541.2	562.3	x	x
+      Inspectors of standards and regulations	3565	19	525.9	568.9	327.0	462.7	472.1	477.3	501.5	574.1	636.3	691.5	712.0	x
+      Health and safety officers	3567	32	653.3	679.6	407.6	517.5	532.0	546.1	597.2	695.1	758.7	793.6	839.6	x
+Administrative and secretarial occupations	4	3,086	356.3	381.5	142.2	201.2	230.0	263.9	316.2	396.2	447.8	479.1	515.9	639.6
+  Administrative occupations	41	2,457	370.5	396.8	151.8	218.5	251.9	287.5	334.3	411.4	460.5	490.6	529.5	654.1
+    Administrative occupations: Government and related organisations	411	254	410.6	434.9	231.9	305.6	337.3	349.8	379.7	455.6	499.5	527.1	565.2	654.6
+      National government administrative occupations	4112	172	409.2	438.1	242.8	309.6	337.3	352.7	378.2	450.1	490.0	519.4	562.6	657.7
+      Local government administrative occupations	4113	73	414.3	427.6	192.9	299.0	321.4	346.4	385.9	463.4	509.6	534.1	569.3	640.8
+      Officers of non-governmental organisations	4114	9	407.0	432.5	x	x	288.6	324.1	395.6	479.3	522.8	546.5	x	x
+    Administrative occupations: Finance	412	550	385.8	407.8	157.3	234.0	271.9	302.9	347.1	428.3	475.1	500.0	534.8	658.7
+      Credit controllers	4121	28	414.1	413.7	223.0	306.6	331.9	359.2	387.0	437.1	459.6	479.1	493.5	x
+      Book-keepers, payroll managers and wages clerks	4122	282	392.9	423.8	153.4	230.0	268.3	303.1	349.8	440.8	498.1	530.0	574.9	732.6
+      Bank and post office clerks	4123	102	373.5	388.0	185.6	252.5	289.4	312.6	348.8	410.7	449.4	467.5	490.5	564.5
+      Finance officers	4124	20	435.4	496.2	230.6	325.4	361.8	383.8	403.4	469.8	514.9	535.5	550.8	x
+      Financial administrative occupations n.e.c.	4129	118	360.2	370.5	143.7	204.5	237.5	270.0	316.3	397.1	447.9	473.3	503.3	588.7
+    Administrative occupations: Records	413	362	381.1	394.6	179.7	263.5	297.1	315.5	347.2	418.9	458.9	479.1	508.5	594.1
+      Records clerks and assistants	4131	138	367.5	384.3	182.5	246.2	275.6	298.6	342.1	402.5	444.0	467.3	495.5	582.8
+      Pensions and insurance clerks and assistants	4132	37	375.8	400.5	266.7	306.6	320.6	335.4	350.7	407.8	441.0	456.5	490.0	x
+      Stock control clerks and assistants	4133	78	396.3	408.0	195.4	295.2	310.5	329.7	355.2	430.5	470.7	491.1	526.7	598.4
+      Transport and distribution clerks and assistants	4134	61	459.2	476.9	300.4	354.6	372.9	388.9	425.6	491.5	533.7	554.4	584.0	670.2
+      Library clerks and assistants	4135	29	232.3	245.0	x	135.8	150.2	163.9	192.3	269.2	325.3	340.7	363.4	x
+      Human resources administrative occupations	4138	20	371.1	367.9	175.4	255.4	291.9	303.3	341.8	393.4	421.3	431.3	453.2	x
+    Other administrative occupations	415	1,071	325.8	348.4	119.6	170.4	198.5	225.0	285.9	362.9	402.5	431.2	462.8	578.8
+      Sales administrators	4151	78	364.5	375.6	182.3	270.8	297.8	314.3	344.1	396.4	436.6	453.1	475.4	536.4
+      Other administrative occupations n.e.c.	4159	993	320.8	346.3	115.9	165.0	191.6	220.0	279.7	359.3	400.1	430.1	461.6	585.4
+    Administrative occupations: Office managers and supervisors	416	221	528.7	563.4	243.0	360.0	385.1	421.6	477.4	579.9	651.6	694.2	761.0	907.4
+      Office managers	4161	185	544.4	581.7	254.8	363.9	392.9	431.0	480.3	604.4	680.2	729.6	778.7	950.4
+      Office supervisors	4162	36	466.6	470.1	213.8	334.5	369.7	382.2	426.0	513.0	547.4	567.3	588.8	x
+  Secretarial and related occupations	42	629	295.8	321.9	114.8	161.0	184.0	203.9	245.6	336.0	383.3	412.1	447.2	567.7
+    Secretarial and related occupations	421	629	295.8	321.9	114.8	161.0	184.0	203.9	245.6	336.0	383.3	412.1	447.2	567.7
+      Medical secretaries	4211	46	344.3	331.1	175.3	217.7	237.6	258.2	306.3	370.8	404.5	x	430.4	x
+      Legal secretaries	4212	27	354.5	376.9	205.6	264.4	285.7	301.4	334.7	385.0	421.6	438.1	456.9	x
+      School secretaries	4213	20	306.4	315.3	153.9	196.9	230.9	250.2	284.0	327.8	368.4	382.7	402.6	x
+      Company secretaries	4214	16	202.5	336.2	99.9	144.1	154.3	154.5	174.7	x	x	x	x	x
+      Personal assistants and other secretaries	4215	223	373.0	392.6	100.7	156.4	191.6	221.2	294.2	436.3	509.1	545.3	588.0	721.6
+      Receptionists	4216	275	248.6	256.5	108.6	150.0	167.3	183.0	215.2	286.5	317.6	332.2	348.5	404.1
+      Typists and related keyboard occupations	4217	22	317.9	332.6	152.5	198.9	214.5	241.0	284.1	345.0	381.2	391.0	413.8	x
+Skilled trades occupations	5	1,932	486.0	516.2	254.1	336.2	363.6	390.2	440.8	536.6	599.4	634.2	675.0	801.2
+  Skilled agricultural and related trades	51	109	363.6	372.7	183.7	294.0	306.6	319.8	344.5	385.9	412.0	430.9	450.0	522.4
+    Agricultural and related trades	511	109	363.6	372.7	183.7	294.0	306.6	319.8	344.5	385.9	412.0	430.9	450.0	522.4
+      Farmers	5111	6	437.2	504.5	x	x	x	x	373.6	497.1	x	x	x	x
+      Horticultural trades	5112	x	x	363.0	x	x	x	x	x	382.4	x	x	x	x
+      Gardeners and landscape gardeners	5113	48	363.9	355.0	149.3	255.6	294.3	311.0	342.5	383.2	407.3	422.5	440.6	x
+      Groundsmen and greenkeepers	5114	43	357.6	368.9	243.7	300.0	310.6	319.2	339.4	375.5	399.5	409.9	430.0	x
+      Agricultural and fishing trades n.e.c.	5119	8	400.0	410.8	x	328.2	338.9	345.0	356.7	436.0	450.9	x	x	x
+  Skilled metal, electrical and electronic trades	52	1,007	569.0	601.8	353.6	422.6	451.9	477.0	524.2	620.7	678.5	712.9	756.9	883.0
+    Metal forming, welding and related trades	521	68	513.7	548.8	352.9	400.5	420.3	431.2	471.2	558.6	602.9	638.2	670.7	x
+      Smiths and forge workers	5211	x	x	351.8	x	x	x	x	x	x	x	x	x	x
+      Moulders, core makers and die casters	5212	x	491.1	507.7	x	x	x	x	x	x	x	x	x	x
+      Sheet metal workers	5213	10	514.9	574.5	x	388.0	403.4	438.0	495.1	595.2	668.2	685.7	x	x
+      Metal plate workers, and riveters	5214	5	585.0	623.7	x	x	471.4	479.8	509.7	659.0	x	x	x	x
+      Welding trades	5215	47	493.1	525.2	352.0	400.2	415.2	425.2	460.5	537.6	580.4	597.8	626.9	x
+      Pipe fitters	5216	x	673.8	743.6	x	x	x	x	632.2	x	x	x	x	x
+    Metal machining, fitting and instrument making trades	522	406	574.9	611.7	345.8	414.4	440.8	467.9	520.1	635.5	701.4	747.9	792.4	923.1
+      Metal machining setters and setter-operators	5221	57	522.7	554.3	364.0	415.0	431.4	452.8	480.9	565.5	612.8	651.7	689.9	x
+      Tool makers, tool fitters and markers-out	5222	8	521.8	573.9	x	440.9	465.5	495.0	507.4	551.7	x	x	x	x
+      Metal working production and maintenance fitters	5223	323	588.7	623.1	338.0	414.0	444.3	473.2	531.1	652.6	722.2	764.8	812.3	948.1
+      Precision instrument makers and repairers	5224	11	464.4	534.0	x	391.4	405.1	414.0	441.2	529.8	577.9	x	x	x
+      Air-conditioning and refrigeration engineers	5225	8	655.0	704.7	x	502.1	568.3	587.5	608.8	711.8	801.8	x	x	x
+    Vehicle trades	523	174	511.9	541.4	313.4	383.3	412.0	439.0	477.0	545.8	595.3	628.3	656.9	776.6
+      Vehicle technicians, mechanics and electricians	5231	127	500.0	520.5	300.1	369.7	401.2	425.4	469.1	534.9	579.9	610.9	636.1	737.7
+      Vehicle body builders and repairers 	5232	21	526.2	513.8	337.7	377.6	395.6	427.9	473.5	533.9	571.9	605.0	627.4	x
+      Vehicle paint technicians	5234	8	465.9	477.0	x	x	404.0	423.7	456.0	506.7	518.5	x	x	x
+      Aircraft maintenance and related trades	5235	10	676.4	780.9	x	528.7	566.6	591.6	645.5	716.7	x	x	x	x
+      Boat and ship builders and repairers	5236	x	496.3	547.5	x	x	x	x	479.8	544.4	x	x	x	x
+      Rail and rolling stock builders and repairers	5237	x	902.1	877.9	x	x	x	x	873.2	930.3	x	x	x	x
+    Electrical and electronic trades	524	317	599.0	618.5	381.7	460.0	488.9	512.1	553.6	641.6	697.1	726.5	760.7	879.9
+      Electricians and electrical fitters	5241	134	590.4	604.9	354.5	434.7	472.6	497.0	540.7	637.8	692.4	718.9	756.8	887.6
+      Telecommunications engineers	5242	32	618.8	647.3	480.0	548.4	554.3	560.5	593.0	655.0	703.8	731.5	760.4	x
+      TV, video and audio engineers	5244	x	625.7	621.9	x	x	x	568.2	607.0	663.7	x	x	x	x
+      IT engineers	5245	16	527.4	596.3	x	383.5	420.5	445.1	487.1	595.4	660.1	689.3	x	x
+      Electrical and electronic trades n.e.c.	5249	131	599.5	628.0	412.2	474.9	498.0	517.9	553.4	641.6	703.7	736.3	765.6	874.7
+    Skilled metal, electrical and electronic trades supervisors	525	42	660.6	715.9	479.6	546.8	566.6	593.5	623.3	706.1	753.8	783.1	810.7	x
+      Skilled metal, electrical and electronic trades supervisors	5250	42	660.6	715.9	479.6	546.8	566.6	593.5	623.3	706.1	753.8	783.1	810.7	x
+  Skilled construction and building trades	53	311	508.3	531.8	300.0	390.0	418.1	440.0	477.1	547.4	594.5	624.0	654.6	768.5
+    Construction and building trades	531	228	494.4	512.2	290.6	371.6	402.9	426.6	460.8	531.3	569.8	602.4	633.3	724.0
+      Steel erectors	5311	x	465.4	519.5	x	x	x	x	444.3	543.0	x	x	x	x
+      Bricklayers and masons	5312	18	473.3	455.9	227.4	343.5	393.0	408.9	454.4	489.0	509.1	527.8	535.2	x
+      Roofers, roof tilers and slaters	5313	16	477.4	486.9	259.2	351.6	391.8	408.8	444.9	509.9	549.3	553.7	x	x
+      Plumbers and heating and ventilating engineers	5314	54	574.4	588.5	290.0	433.6	464.9	480.5	544.1	620.0	654.1	680.6	707.4	x
+      Carpenters and joiners	5315	84	504.0	514.2	300.9	390.0	414.4	436.9	473.4	530.7	568.4	600.2	629.6	713.9
+      Glaziers, window fabricators and fitters	5316	21	386.9	416.4	300.0	320.0	330.0	337.4	361.9	424.6	459.2	478.8	496.7	x
+      Construction and building trades n.e.c.	5319	31	464.6	483.6	222.4	354.3	386.0	411.1	447.0	493.1	532.6	552.2	584.5	x
+    Building finishing trades	532	40	466.0	473.3	297.7	376.2	398.0	418.2	440.9	496.6	522.3	532.5	550.0	x
+      Plasterers	5321	7	486.4	484.5	x	385.5	431.9	439.9	452.6	517.8	524.9	x	x	x
+      Floorers and wall tilers	5322	9	496.9	515.4	x	428.5	437.1	440.9	451.7	517.5	540.0	556.7	x	x
+      Painters and decorators	5323	24	453.9	454.0	242.1	343.9	370.3	395.9	424.1	478.3	509.4	523.9	538.9	x
+    Construction and building trades supervisors	533	43	650.8	689.0	486.5	521.4	550.5	571.4	602.3	688.6	756.2	790.6	823.6	x
+      Construction and building trades supervisors	5330	43	650.8	689.0	486.5	521.4	550.5	571.4	602.3	688.6	756.2	790.6	823.6	x
+  Textiles, printing and other skilled trades	54	505	357.5	366.9	161.5	225.0	258.5	285.1	324.4	391.0	433.8	455.9	479.1	561.7
+    Textiles and garments trades	541	21	367.9	419.5	191.6	276.2	295.6	307.6	325.7	402.0	447.4	484.4	x	x
+      Weavers and knitters	5411	x	377.0	397.7	x	x	x	x	x	x	x	x	x	x
+      Upholsterers	5412	7	389.8	439.3	x	303.0	320.2	323.5	355.3	427.9	x	x	x	x
+      Footwear and leather working trades	5413	6	368.0	451.9	x	x	x	314.9	331.8	399.4	x	x	x	x
+      Tailors and dressmakers	5414	x	x	297.8	x	x	x	x	x	x	x	x	x	x
+      Textiles, garments and related trades n.e.c.	5419	x	x	458.1	x	x	x	x	x	x	x	x	x	x
+    Printing trades	542	34	429.7	438.7	222.8	309.7	333.2	346.5	386.0	467.7	498.4	513.2	547.4	x
+      Pre-press technicians	5421	x	479.3	448.9	x	x	x	x	x	x	x	x	x	x
+      Printers	5422	16	467.4	486.5	280.4	342.7	382.9	397.2	436.7	505.9	550.9	589.1	x	x
+      Print finishing and binding workers	5423	15	373.4	382.6	x	293.5	300.5	312.8	342.0	402.9	450.5	463.6	x	x
+    Food preparation and hospitality trades	543	413	345.8	353.9	156.4	217.5	248.8	275.9	313.7	381.5	420.8	441.3	465.4	536.6
+      Butchers	5431	31	359.8	371.9	191.3	280.7	300.0	310.9	345.3	388.0	426.0	438.4	445.4	x
+      Bakers and flour confectioners	5432	22	340.5	350.1	x	268.5	295.7	302.1	328.8	363.5	384.2	412.4	437.8	x
+      Fishmongers and poultry dressers	5433	5	319.1	320.0	x	x	248.1	287.1	311.3	332.3	365.5	x	x	x
+      Chefs	5434	234	372.7	377.3	174.7	246.7	280.0	303.9	341.2	407.1	445.3	468.7	487.7	572.4
+      Cooks	5435	65	229.7	236.9	116.8	149.1	168.4	180.0	203.6	257.8	281.8	299.2	311.6	360.0
+      Catering and bar managers	5436	56	373.5	386.6	190.3	263.0	293.8	313.2	342.4	402.2	439.8	454.2	473.3	x
+    Other skilled trades	544	37	410.2	416.1	178.1	277.3	312.0	333.8	372.5	438.7	477.0	498.0	511.2	x
+      Glass and ceramics makers, decorators and finishers	5441	x	390.5	412.9	x	x	x	362.5	368.9	416.2	x	x	x	x
+      Furniture makers and other craft woodworkers	5442	11	424.6	424.5	x	307.8	330.5	361.8	382.4	447.5	480.0	493.5	x	x
+      Florists	5443	x	202.7	246.0	x	x	x	x	197.6	x	x	x	x	x
+      Other skilled trades n.e.c.	5449	16	440.2	464.1	x	310.8	344.9	368.3	410.5	477.6	510.8	530.2	x	x
+Caring, leisure and other service occupations	6	2,490	280.5	289.3	103.6	159.9	182.2	205.0	244.7	312.7	349.5	371.4	396.4	472.3
+  Caring personal service occupations	61	2,050	280.2	285.8	110.7	166.2	188.1	209.7	246.7	310.5	346.3	367.0	390.2	458.4
+    Childcare and related personal services	612	738	248.0	248.9	96.2	153.0	172.7	190.8	222.1	274.9	302.7	319.5	338.2	388.5
+      Nursery nurses and assistants	6121	180	270.3	259.7	112.5	160.7	179.4	200.5	234.7	293.1	316.6	328.0	343.1	390.1
+      Childminders and related occupations	6122	28	269.7	284.1	87.0	140.1	153.6	164.0	208.1	305.9	360.2	387.4	437.5	x
+      Playworkers	6123	38	101.3	133.3	23.4	39.7	48.9	55.8	72.3	130.9	166.6	183.9	209.2	x
+      Teaching assistants	6125	343	250.6	253.9	116.8	167.5	186.2	202.4	228.8	273.7	302.2	320.6	338.3	387.7
+      Educational support assistants	6126	150	242.7	247.2	108.3	161.0	180.4	194.1	219.7	261.9	291.9	307.7	330.7	376.2
+    Animal care and control services	613	44	314.7	311.7	119.6	193.5	215.0	245.5	284.3	346.2	375.0	391.9	420.0	x
+      Veterinary nurses	6131	12	364.6	352.9	x	250.1	271.5	288.7	335.7	391.2	419.9	432.6	444.9	x
+      Pest control officers	6132	x	426.8	427.5	x	x	x	373.4	396.0	452.0	x	x	x	x
+      Animal care services occupations n.e.c.	6139	28	285.1	279.7	96.7	150.7	187.7	210.4	253.5	313.0	338.2	350.0	366.0	x
+    Caring personal services	614	1,269	300.0	306.3	118.6	175.9	200.2	225.0	267.6	334.7	372.9	393.7	417.8	487.8
+      Nursing auxiliaries and assistants	6141	439	325.4	325.0	135.9	197.8	226.4	253.2	293.3	356.6	388.4	405.7	430.4	495.7
+      Ambulance staff (excluding paramedics)	6142	18	427.0	417.4	x	314.7	330.8	352.2	387.2	460.3	491.4	501.5	537.4	x
+      Dental nurses	6143	42	297.3	299.4	159.9	207.3	224.5	243.7	267.8	324.7	351.6	368.0	378.7	x
+      Houseparents and residential wardens	6144	17	394.9	403.7	x	234.5	273.8	311.2	364.0	437.2	489.6	515.6	537.4	x
+      Care workers and home carers	6145	675	278.0	285.5	102.9	159.0	179.8	201.9	242.8	309.0	346.2	370.2	397.8	471.1
+      Senior care workers	6146	57	350.4	356.8	204.4	256.1	274.0	293.7	325.5	378.6	408.2	434.2	454.5	508.4
+      Care escorts	6147	8	147.3	161.2	x	108.0	117.4	124.7	139.2	160.0	x	x	x	x
+      Undertakers, mortuary and crematorium assistants	6148	13	391.7	374.2	x	x	x	274.2	335.0	444.5	475.9	483.0	x	x
+  Leisure, travel and related personal service occupations	62	440	284.0	305.7	80.5	130.7	153.8	179.4	228.9	325.8	366.7	397.4	440.8	550.3
+    Leisure and travel services	621	188	320.5	349.0	56.4	105.0	143.1	178.7	254.8	363.1	444.3	478.9	537.5	709.6
+      Sports and leisure assistants	6211	67	168.1	210.4	29.6	55.7	69.4	83.3	112.5	236.6	304.2	328.1	348.4	444.3
+      Travel agents	6212	30	328.1	348.2	170.1	216.4	234.5	252.5	290.5	353.5	401.9	432.2	470.0	x
+      Air travel assistants	6214	48	398.8	455.1	162.7	257.0	290.4	324.7	353.1	450.5	502.8	564.3	650.7	x
+      Rail travel assistants	6215	24	647.6	667.1	428.3	505.3	542.4	574.1	615.2	704.3	763.0	787.2	822.4	x
+      Leisure and travel service occupations n.e.c.	6219	19	125.5	173.4	x	53.2	65.1	68.9	78.5	x	x	x	x	x
+    Hairdressers and related services	622	96	214.0	232.9	111.7	124.9	138.8	153.1	183.2	247.6	284.4	299.0	319.7	372.5
+      Hairdressers and barbers	6221	61	204.5	226.3	114.9	126.3	139.9	150.0	180.0	229.5	266.9	284.2	300.3	x
+      Beauticians and related occupations	6222	36	243.0	244.1	102.6	124.2	137.6	156.4	202.2	280.2	300.0	323.6	342.9	x
+    Housekeeping and related services	623	109	300.8	296.0	96.1	152.0	173.7	200.2	253.8	336.2	371.5	389.7	409.8	483.9
+      Housekeepers and related occupations	6231	42	239.4	253.9	113.9	141.6	159.5	175.5	212.4	280.2	312.5	328.5	344.4	x
+      Caretakers	6232	67	338.7	322.5	86.9	161.4	197.4	240.6	302.5	371.4	401.1	424.2	452.6	516.1
+    Cleaning and housekeeping managers and supervisors	624	47	299.2	303.7	120.0	162.7	183.1	219.4	260.7	328.4	365.2	391.6	421.6	x
+      Cleaning and housekeeping managers and supervisors	6240	47	299.2	303.7	120.0	162.7	183.1	219.4	260.7	328.4	365.2	391.6	421.6	x
+Sales and customer service occupations	7	2,120	251.4	278.3	89.3	127.5	145.5	163.3	204.4	300.3	341.8	365.2	393.0	490.6
+  Sales occupations	71	1,549	216.8	246.6	78.2	118.9	130.2	146.0	179.0	261.5	306.4	325.6	352.8	431.6
+    Sales assistants and retail cashiers	711	1,393	200.9	231.9	74.3	113.9	124.8	137.7	167.9	240.4	286.7	307.1	329.2	400.8
+      Sales and retail assistants	7111	1,168	197.1	229.2	69.9	111.3	122.0	135.0	163.9	238.0	284.5	306.2	327.0	401.7
+      Retail cashiers and check-out operators	7112	133	181.8	193.4	85.2	111.6	124.3	132.6	155.4	206.6	234.7	251.5	268.5	315.7
+      Telephone salespersons	7113	19	346.5	351.9	162.9	247.0	270.0	292.3	322.8	378.2	402.5	426.8	440.8	x
+      Pharmacy and other dispensing assistants	7114	56	245.8	242.5	116.6	150.3	168.2	182.1	209.3	289.0	304.7	317.7	326.8	358.2
+      Vehicle and parts salespersons and advisers	7115	16	446.6	568.1	317.4	351.6	374.6	388.3	415.7	483.0	541.6	x	x	x
+    Sales related occupations	712	65	353.7	352.5	110.4	181.8	222.1	287.5	321.4	386.0	417.8	436.8	460.8	534.4
+      Collector salespersons and credit agents	7121	x	x	320.0	x	x	x	x	x	x	x	x	x	x
+      Debt, rent and other cash collectors	7122	14	336.5	351.4	217.3	290.9	301.3	302.5	316.6	350.4	385.9	390.0	409.3	x
+      Roundspersons and van salespersons	7123	5	395.8	386.7	x	x	329.3	337.4	380.4	415.3	446.0	x	x	x
+      Market and street traders and assistants	7124	x	x	x	x	x	x	x	x	x	x	x	x	x
+      Merchandisers and window dressers	7125	19	345.0	334.9	72.4	120.8	143.3	167.8	273.1	391.2	433.6	464.9	495.1	x
+      Sales related occupations n.e.c.	7129	25	364.1	366.5	103.7	172.7	219.9	292.6	331.4	395.2	421.6	444.5	460.3	x
+    Sales supervisors	713	91	375.7	395.8	227.9	295.0	311.1	324.0	352.4	407.7	441.4	470.5	496.6	568.3
+      Sales supervisors	7130	91	375.7	395.8	227.9	295.0	311.1	324.0	352.4	407.7	441.4	470.5	496.6	568.3
+  Customer service occupations	72	571	346.0	364.4	132.4	196.7	229.4	264.4	314.2	382.3	423.3	450.8	488.8	599.8
+    Customer service occupations	721	485	328.6	330.4	124.5	180.8	210.0	238.7	296.0	358.6	392.9	415.3	440.8	526.5
+      Call and contact centre occupations	7211	53	324.6	323.1	165.2	225.6	254.7	276.9	305.3	344.1	364.2	375.7	393.0	x
+      Telephonists	7213	9	276.6	277.1	126.1	146.1	156.8	179.5	225.0	310.6	336.9	x	x	x
+      Communication operators	7214	14	497.4	487.7	x	321.1	390.0	427.6	450.0	537.3	566.4	612.0	623.6	x
+      Market research interviewers	7215	6	x	213.6	x	x	x	x	x	x	x	x	x	x
+      Customer service occupations n.e.c.	7219	404	329.0	328.6	121.0	177.2	204.5	232.3	293.4	359.1	394.0	415.9	441.3	524.0
+    Customer service managers and supervisors	722	86	517.5	557.5	306.2	371.6	392.8	417.1	471.0	571.6	626.5	660.2	713.8	847.7
+      Customer service managers and supervisors	7220	86	517.5	557.5	306.2	371.6	392.8	417.1	471.0	571.6	626.5	660.2	713.8	847.7
+Process, plant and machine operatives	8	1,547	445.0	474.7	229.5	310.5	331.5	354.5	400.8	492.9	549.9	586.6	629.9	746.3
+  Process, plant and machine operatives	81	747	413.2	450.2	246.1	301.9	318.8	334.7	370.9	460.1	515.0	548.3	592.7	704.4
+    Process operatives	811	222	388.7	418.3	243.8	297.6	308.6	320.0	351.2	426.3	473.6	496.2	530.3	652.3
+      Food, drink and tobacco process operatives	8111	146	352.7	376.8	225.0	280.3	294.5	305.1	324.0	391.1	429.1	454.1	478.9	553.8
+      Glass and ceramics process operatives	8112	5	406.6	443.8	x	x	x	344.4	388.2	459.0	x	x	x	x
+      Textile process operatives	8113	10	390.2	427.6	x	293.3	312.1	331.0	367.1	425.4	462.1	x	x	x
+      Chemical and related process operatives	8114	22	545.0	581.0	325.4	373.8	396.7	413.6	477.8	606.2	689.6	718.2	752.9	x
+      Rubber process operatives	8115	x	493.0	478.9	x	x	x	x	482.4	509.1	x	x	x	x
+      Plastics process operatives	8116	12	426.9	477.8	297.1	344.0	355.1	364.8	395.4	477.9	519.1	565.0	x	x
+      Metal making and treating process operatives	8117	9	479.2	503.1	x	391.1	412.3	419.8	445.3	507.3	562.9	612.6	x	x
+      Electroplaters	8118	6	460.5	471.7	x	348.3	350.6	366.4	412.5	484.5	515.6	x	x	x
+      Process operatives n.e.c.	8119	9	398.5	446.3	x	311.7	330.0	344.9	359.2	444.7	524.1	545.2	x	x
+    Plant and machine operatives	812	91	440.8	473.9	292.6	325.0	341.7	360.4	398.1	480.6	528.1	559.5	594.5	713.7
+      Paper and wood machine operatives	8121	18	393.6	425.3	284.8	312.2	328.4	342.2	368.3	429.8	478.5	489.5	517.3	x
+      Coal mine operatives	8122	..												
+      Quarry workers and related operatives	8123	x	563.2	586.2	x	x	x	x	x	x	x	x	x	x
+      Energy plant operatives	8124	6	578.6	611.6	x	x	377.3	436.2	483.1	632.3	x	x	x	x
+      Metal working machine operatives	8125	21	413.7	442.3	287.2	321.3	331.5	354.9	379.1	449.6	479.8	513.1	563.3	x
+      Water and sewerage plant operatives	8126	12	525.2	524.2	363.1	407.2	430.0	459.2	490.8	542.0	573.5	583.9	616.9	x
+      Printing machine assistants	8127	18	399.3	423.2	279.3	300.0	317.2	328.9	354.3	434.3	481.8	505.0	527.8	x
+      Plant and machine operatives n.e.c.	8129	13	454.3	524.8	298.3	331.9	341.9	360.7	409.6	499.1	587.7	629.1	x	x
+    Assemblers and routine operatives	813	248	424.4	474.1	276.4	316.0	333.4	346.5	382.3	471.4	541.8	583.3	633.8	751.9
+      Assemblers (electrical and electronic products)	8131	12	412.8	437.5	292.5	319.0	330.2	355.1	381.5	450.2	497.8	532.4	559.0	x
+      Assemblers (vehicles and metal goods)	8132	56	633.8	645.1	334.0	404.4	443.3	485.9	559.8	685.7	739.5	765.9	813.9	x
+      Routine inspectors and testers	8133	54	459.7	487.5	295.4	337.4	355.0	380.4	416.7	504.3	556.5	585.0	620.3	x
+      Weighers, graders and sorters	8134	6	432.4	395.9	x	x	x	x	353.9	450.2	474.5	x	x	x
+      Tyre, exhaust and windscreen fitters	8135	17	355.9	376.9	x	299.0	319.8	330.4	344.6	384.1	419.9	429.9	453.0	x
+      Sewing machinists	8137	17	300.0	307.0	165.6	223.0	235.0	258.4	281.9	316.9	338.8	352.1	381.5	x
+      Assemblers and routine operatives n.e.c.	8139	86	383.0	416.8	279.7	303.6	321.4	334.8	357.0	419.9	459.9	491.8	519.8	629.7
+    Construction operatives	814	186	421.1	444.8	195.1	281.3	302.3	322.5	368.5	479.1	528.0	560.0	600.4	704.5
+      Scaffolders, stagers and riggers	8141	16	665.8	687.5	402.7	483.6	494.0	516.8	587.7	733.0	797.7	818.8	833.2	x
+      Road construction operatives	8142	23	531.1	540.4	333.4	411.4	440.0	460.0	511.6	567.3	621.9	630.4	656.6	x
+      Rail construction and maintenance operatives	8143	7	530.2	615.4	x	389.7	427.1	450.7	481.3	600.4	x	x	x	x
+      Construction operatives n.e.c.	8149	140	375.0	392.8	158.1	249.6	280.6	298.0	332.1	419.9	478.7	503.5	537.4	613.5
+  Transport and mobile machine drivers and operatives	82	801	471.0	497.6	213.7	323.8	355.3	382.5	428.9	523.8	581.1	616.2	656.9	777.0
+    Road transport drivers	821	658	459.0	467.0	191.7	313.5	340.0	368.8	416.0	504.8	557.9	591.0	625.3	717.4
+      Large goods vehicle drivers	8211	215	553.8	570.0	377.5	434.2	457.6	479.6	520.5	593.9	637.9	665.1	694.5	772.3
+      Van drivers	8212	301	385.2	396.4	150.0	238.1	288.1	314.0	348.2	425.3	470.6	500.0	533.6	635.2
+      Bus and coach drivers	8213	123	462.0	472.3	200.2	332.4	377.0	404.2	435.9	498.6	554.0	587.1	621.2	716.9
+      Taxi and cab drivers and chauffeurs	8214	17	303.9	354.3	77.7	120.0	133.4	161.6	230.1	379.1	498.9	555.6	576.7	x
+      Driving instructors	8215	x	x	673.0	x	x	x	x	x	x	x	x	x	x
+    Mobile machine drivers and operatives	822	79	490.4	534.6	318.6	370.6	388.3	405.0	443.8	531.5	597.0	646.7	677.0	797.4
+      Crane drivers	8221	8	671.6	773.8	x	487.8	535.3	568.0	646.2	747.2	875.5	x	x	x
+      Fork-lift truck drivers	8222	27	412.5	447.0	300.0	332.8	347.1	361.6	388.3	444.1	483.9	509.5	524.0	x
+      Agricultural machinery drivers	8223	x	x	439.1	x	x	x	x	x	x	x	x	x	x
+      Mobile machine drivers and operatives n.e.c.	8229	41	526.4	555.2	348.6	394.1	414.0	429.8	485.9	569.1	643.6	663.5	708.7	x
+    Other drivers and transport operatives	823	63	777.8	769.4	346.7	458.7	500.0	546.7	655.5	934.0	1,001.4	1,031.2	1,038.2	1,176.4
+      Train and tram drivers	8231	29	1,031.2	1,003.9	639.5	904.9	939.0	957.1	994.0	1,035.5	1,079.8	1,110.5	1,165.3	x
+      Marine and waterways transport operatives	8232	x	670.8	658.1	x	x	x	x	663.5	716.6	x	x	x	x
+      Air transport operatives	8233	14	469.7	484.7	248.7	333.9	379.1	391.4	434.5	503.5	553.1	581.4	x	x
+      Rail transport operatives	8234	10	721.7	759.9	x	510.0	523.7	603.7	677.6	797.0	849.7	913.8	x	x
+      Other drivers and transport operatives n.e.c.	8239	8	468.2	458.0	x	x	x	x	414.0	543.5	597.9	x	x	x
+Elementary occupations	9	2,961	258.6	267.9	58.9	98.1	120.0	140.9	193.9	306.0	348.3	373.9	404.0	491.6
+  Elementary trades and related occupations	91	356	362.2	378.8	188.4	281.3	298.3	307.8	334.5	392.2	429.7	453.6	483.5	572.8
+    Elementary agricultural occupations	911	51	362.2	358.8	136.8	241.4	280.4	295.2	333.3	385.5	415.5	439.4	466.3	551.9
+      Farm workers	9111	33	376.7	372.8	121.3	243.3	287.1	306.5	343.9	400.4	442.0	466.4	499.3	x
+      Forestry workers	9112	x	393.6	404.9	x	x	x	x	372.3	404.1	x	x	x	x
+      Fishing and other elementary agriculture occupations n.e.c.	9119	16	340.0	321.8	137.1	218.2	251.0	280.2	299.1	353.7	378.5	389.6	399.3	x
+    Elementary construction occupations	912	63	407.8	432.2	273.2	313.7	330.0	345.9	372.1	436.9	481.6	512.0	553.5	626.8
+      Elementary construction occupations	9120	63	407.5	432.1	272.7	313.5	330.0	345.4	372.0	436.0	480.7	512.4	554.5	627.2
+    Elementary process plant occupations	913	242	352.4	369.0	189.4	281.1	292.9	302.3	324.9	381.0	421.0	442.5	469.0	552.4
+      Industrial cleaning process occupations	9132	21	292.5	275.5	77.2	114.8	131.6	159.5	246.8	321.6	361.8	373.8	387.0	x
+      Packers, bottlers, canners and fillers	9134	103	341.6	360.7	189.7	279.6	288.9	300.0	318.8	369.6	408.5	429.5	453.0	531.0
+      Elementary process plant occupations n.e.c.	9139	117	373.1	393.3	253.6	296.5	304.6	317.2	344.7	402.6	442.5	468.9	498.4	584.5
+  Elementary administration and service occupations	92	2,605	227.5	252.8	54.4	89.7	110.4	126.8	173.3	288.0	332.7	356.6	387.4	475.4
+    Elementary administration occupations	921	189	381.2	366.4	97.9	210.5	258.1	291.5	334.2	419.8	450.6	478.7	501.2	574.5
+      Postal workers, mail sorters, messengers and couriers	9211	147	419.7	402.0	140.8	279.4	313.9	335.5	391.3	443.2	485.9	501.5	519.6	600.3
+      Elementary administration occupations n.e.c.	9219	43	244.0	244.5	60.1	125.3	150.0	162.7	207.8	290.9	313.9	327.4	345.2	x
+    Elementary cleaning occupations	923	623	154.6	190.1	62.1	84.4	94.8	107.3	127.4	188.6	239.4	271.7	298.1	359.5
+      Window cleaners	9231	x	x	412.0	x	x	x	x	x	x	x	x	x	x
+      Street cleaners	9232	7	343.8	350.9	x	316.0	321.4	326.1	333.8	358.3	365.0	373.7	x	x
+      Cleaners and domestics	9233	558	142.5	174.4	58.9	81.2	90.0	100.1	120.0	170.3	210.6	237.9	268.1	332.8
+      Launderers, dry cleaners and pressers	9234	19	262.7	256.3	120.0	150.1	179.7	195.5	231.1	289.7	303.0	311.2	325.9	x
+      Refuse and salvage occupations	9235	24	373.5	390.4	295.8	325.6	336.2	341.8	356.0	393.5	417.7	433.5	450.7	x
+      Vehicle valeters and cleaners	9236	12	291.1	268.9	105.5	155.0	172.4	179.4	249.6	320.8	342.4	352.6	364.1	x
+      Elementary cleaning occupations n.e.c.	9239	x	x	383.8	x	x	x	x	x	x	x	x	x	x
+    Elementary security occupations	924	260	223.0	264.9	41.0	54.3	60.0	66.8	103.4	328.7	398.8	430.4	467.2	568.0
+      Security guards and related occupations	9241	130	410.5	412.9	158.6	281.3	308.6	328.4	369.7	449.9	500.5	523.8	558.5	633.1
+      Parking and civil enforcement occupations	9242	13	362.6	333.8	x	x	x	269.1	321.8	398.4	421.4	428.4	451.5	x
+      School midday and crossing patrol occupations	9244	106	58.1	72.7	28.6	41.0	44.2	47.7	52.5	63.1	70.9	78.0	86.3	x
+      Elementary security occupations n.e.c.	9249	11	x	280.9	x	x	x	x	192.0	333.7	398.6	432.5	x	x
+    Elementary sales occupations	925	35	223.0	229.0	111.3	134.8	146.6	157.8	188.6	242.9	278.5	287.6	303.6	x
+      Shelf fillers	9251	31	215.1	223.5	106.7	133.4	140.9	150.3	185.1	237.6	271.6	283.9	294.9	x
+      Elementary sales occupations n.e.c.	9259	4	256.1	267.3	x	171.9	186.6	202.3	241.0	303.7	307.4	x	x	x
+    Elementary storage occupations	926	546	373.4	402.5	231.6	296.0	306.4	320.0	345.3	404.2	442.1	469.5	498.3	594.0
+      Elementary storage occupations	9260	546	373.4	402.5	231.6	296.0	306.4	320.0	345.3	404.2	442.1	469.5	498.3	594.0
+    Other elementary services occupations	927	952	162.1	182.9	40.5	68.8	83.1	99.1	127.5	198.2	242.6	267.3	291.9	345.9
+      Hospital porters	9271	5	360.7	361.7	x	x	303.8	317.3	340.6	383.6	403.9	x	x	x
+      Kitchen and catering assistants	9272	540	183.0	199.7	53.8	87.1	103.6	119.6	148.9	223.3	263.0	284.4	305.7	359.1
+      Waiters and waitresses	9273	195	120.0	151.9	32.4	51.2	60.0	69.5	94.9	157.1	199.5	225.0	257.4	316.5
+      Bar staff	9274	159	135.6	161.7	38.2	59.7	68.9	81.1	115.5	172.5	208.0	227.4	259.7	318.7
+      Leisure and theme park attendants	9275	32	98.4	135.7	18.9	30.6	34.6	47.1	71.1	130.9	180.3	205.3	231.0	x
+      Other elementary services occupations n.e.c.	9279	21	213.6	229.2	x	x	102.7	115.3	165.5	266.5	306.9	321.1	336.2	x
